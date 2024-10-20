@@ -42,3 +42,7 @@ Follow these steps to clone the repository and start working with TypeScript exa
 ## 🏗️ Project Structure
 The repository is organized as follows:
 
+
+
+typescript configuring compiler
+tsc --init 

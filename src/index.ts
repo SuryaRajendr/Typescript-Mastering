@@ -10,3 +10,6 @@ let message: string = "Hello, TypeScript!";
  */
 
 //age = 'surya' // ->Type 'string' is not assignable to type 'number'.ts(2322)
+
+if(age < 50)
+    age += 10;
